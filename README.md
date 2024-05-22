@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm venkateshbokka</h1>
+<h1 align="center">Hi 👋, I'm VenkateshBokka</h1>
 <h3 align="center">A passionate IOT  Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshbokka&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshbokka" /> </p>
