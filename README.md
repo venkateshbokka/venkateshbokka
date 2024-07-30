@@ -1,18 +1,74 @@
-<h1 align="center">Hi 👋, I'm VenkateshBokka</h1>
-<h3 align="center">A passionate IOT  Engineer from India</h3>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/xxxxxx?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshbokka&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshbokka" /> </p>
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/venkatesh-bokka-983b99126/" style="color: #0366d6;">Venkatesh Bokka</a> 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkatesh-bokka-983b99126/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/venkateshbokka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:venkateshbokka232@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on [APWRIMS,KDSS,MCE](https://apwrims.ap.gov.in/)
+<!-- About Me -->
+<h2 align="center" style="color: #0366d6;">👨‍💻 About Me</h2>
+<p align="center" style="max-width: 800px; margin: auto; font-size: 1.1em;">
+  I'm a passionate IoT Engineer with over 6 years of experience in crafting innovative IoT solutions. With expertise in AWS, Azure, Docker, Kubernetes, and a variety of hardware platforms, I excel at solving complex challenges and delivering scalable solutions. Explore my projects and let's connect!
+</p>
 
-- 📫 How to reach me **venkateshbokka232@gmail.com**
+<!-- Skills Section -->
+<h2 style="color: #0366d6;">🛠️ Skills</h2>
+<p>
+  <strong>Cloud Platforms:</strong> AWS, Azure<br>
+  <strong>Programming Languages:</strong> Python, C, JavaScript, HTML, CSS<br>
+  <strong>Technologies:</strong> Docker, Kubernetes, Node-RED<br>
+  <strong>Protocols:</strong> MQTT, REST API, LoRaWAN, Modbus<br>
+  <strong>Tools:</strong> GitHub, Postman<br>
+  <strong>Hardware:</strong> Raspberry Pi, Arduino, ESP32, Beaglebone
+</p>
 
-- 📄 Know about my experiences [four years experience in IOT and Security Domain](four years experience in IOT and Security Domain)
+<!-- Highlighted Projects -->
+<h2 style="color: #0366d6;">🚀 Highlighted Projects</h2>
+<ul>
+  <li><strong>Integrated Water Management:</strong> Developed real-time dashboards and alert systems for water reservoirs. <a href="#">View Project</a></li>
+  <li><strong>Kaleswaram Decision Support System:</strong> Created a web-based system for real-time water visibility and flood forecasting. <a href="#">View Project</a></li>
+  <li><strong>Mid Central Energy:</strong> Implemented a decision support system with Chirpstack LoRaWAN and AI/ML for predictive maintenance. <a href="#">View Project</a></li>
+  <li><strong>Stanley USA:</strong> Built a monitoring dashboard with AWS, Python, and AI/ML techniques for health management. <a href="#">View Project</a></li>
+</ul>
 
+<!-- Fun Facts -->
+<h2 style="color: #0366d6;">🎉 Fun Facts</h2>
+<ul>
+  <li>I'm passionate about merging technology with sustainability.</li>
+  <li>I actively contribute to open-source projects and tech communities.</li>
+  <li>In my spare time, I enjoy experimenting with new hardware and technologies.</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Contact Information -->
+<h2 style="color: #0366d6;">📫 Let's Connect!</h2>
+<p align="center">
+  Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/venkatesh-bokka-983b99126/) or [Email](mailto:venkateshbokka232@gmail.com). I'm always open to discussing exciting opportunities and collaborations!
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshbokka&show_icons=true&locale=en&layout=compact" alt="venkateshbokka" /></p>
+<!-- Footer -->
+<p align="center" style="font-size: 1.1em;">
+  <a href="https://www.linkedin.com/in/venkatesh-bokka-983b99126/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> | 
+  <a href="https://github.com/venkateshbokka" target="_blank" style="color: #0366d6; text-decoration: none;">GitHub</a> | 
+  <a href="mailto:venkateshbokka232@gmail.com" style="color: #0366d6; text-decoration: none;">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshbokka&" alt="venkateshbokka" /></p>
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-3D5D81?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
